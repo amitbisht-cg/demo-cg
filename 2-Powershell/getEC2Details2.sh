@@ -1,4 +1,7 @@
 #!/bin/bash
+
+## Usage: ./getEC2Details2.sh i-0a2f7fe119179ff69 SubnetId
+
 ## Authenticating to AWS Account
 export AWS_ACCESS_KEY_ID=##########
 export AWS_SECRET_ACCESS_KEY=##########
